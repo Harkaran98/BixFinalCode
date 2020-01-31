@@ -16,7 +16,7 @@ In order to test the server application, follow the steps mentioned below:
 
 If you want to run my project on the web browser follow these steps:
 
-1. First open the project (you may use pycharm), type the following command line:python manage.py runserver
+1. First open the project (you may use pycharm), type the following on the command line- python manage.py runserver
 
 2. Open your web browser and in the URL bar type: localhost:8000
 
