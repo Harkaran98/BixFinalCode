@@ -1,5 +1,5 @@
 # BixFinalCode
-Garage App - JSON CRUD using Django
+Garage App - JSON CRUD using Django RestFramework
 
 In order to test the server application, follow the steps mentioned below:
 
