@@ -1,7 +1,7 @@
 # BixFinalCode
 Garage App - JSON CRUD using Django
 
-In order to test the server application, follow the steps mentioned before:
+In order to test the server application, follow the steps mentioned below:
 
 1. First we have to make some test cases in the tests.py file present in my project's location in Garage2/GarageApp/ which I have already done in my project.
 
