@@ -18,21 +18,22 @@ class trucks(models.Model):
     model = models.CharField(max_length=10)
     year = models.IntegerField()
     Seats = models.IntegerField()
+    Bed_Length = models.CharField(max_length=10)
     Color = models.CharField(max_length=10)
     VIN = models.CharField(max_length=20)
     Current_Mileage = models.CharField(max_length=10)
     Service_Interval = models.CharField(max_length=10)
     Next_Service = models.CharField(max_length=10)
-    Bed_Length = models.DecimalField(max_digits=10,decimal_places=4)
+
 
 
 class boats(models.Model):
     make = models.CharField(max_length=20)
     model = models.CharField(max_length=10)
-    year = models.IntegerField(4)
-    Length = models.DecimalField(max_digits=10,decimal_places=4)
-    Width = models.DecimalField(max_digits=10,decimal_places=4)
+    year = models.IntegerField()
+    Length = models.CharField(max_length=10)
+    Width = models.CharField(max_length=10)
     HIN = models.CharField(max_length=20)
-    Current_Hours = models.IntegerField()
+    Current_Hours = models.CharField(max_length=10)
     Service_Interval = models.CharField(max_length=10)
     Next_Service = models.CharField(max_length=10)
