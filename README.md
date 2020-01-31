@@ -7,7 +7,7 @@ In order to test the server application, follow the steps mentioned below:
 
 2. You may open my tests.py file to see that I have created test cases for GET, POST, PUT, UPDATE AND DELETE functions, for cars, trucks and boats that is in total there are about 12 test cases for this project.
 
-3. In order to successfully run these tests go to command line (in pycharm while the project is opened) and type- python manage.py test
+3. In order to successfully run these tests go to command line (in pycharm's cmd while the project is opened or in windows cmd while inside the project's location) and type- python manage.py test
 
 4. The above command will run all the tests. 
 
@@ -16,7 +16,7 @@ In order to test the server application, follow the steps mentioned below:
 
 If you want to run my project on the web browser follow these steps:
 
-1. First open the project (you may use pycharm), type the following on the command line- python manage.py runserver
+1. First open the project (you may use pycharm's cmd or windows cmd while inside my project), type the following on the command line- python manage.py runserver
 
 2. Open your web browser and in the URL bar type: localhost:8000
 
