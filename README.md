@@ -20,10 +20,12 @@ If you want to run my project on the web browser follow these steps:
 
 2. Open your web browser and in the URL bar type: localhost:8000
 
-3. In odrder to see my project you would have to login, here's the the login credentials:
+3. In order to see my project you would have to login, here's the the login credentials:
    
    Username:karan
    Password:qwerty101
+
+4. Have fun performing CRUD operations on my project!
 
 
 Hope you like my project! I had a lot of fun doing it!!!
